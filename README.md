@@ -6,7 +6,7 @@
 training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 
 grayscale image, associated with a label from 10 classes.  
  
-Data-set is publicly available on kaggle and Zalando Fashion MNIST repository on Github. 
+Data-set is publicly available on kaggle and Zalando Fashion MNIST repository on Github (https://github.com/zalandoresearch/fashion-mnist). 
  
 Fashion-MNIST is intended as direct drop-in replacement for the original MNIST dataset. It shares 
 the same image size and structure of training and testing splits. 
